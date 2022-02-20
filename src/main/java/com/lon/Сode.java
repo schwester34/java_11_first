@@ -1,5 +1,4 @@
 package com.lon;
-
 public class Сode {
     public static void main (String[] args) {
 
