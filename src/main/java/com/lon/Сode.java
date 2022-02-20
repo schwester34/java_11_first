@@ -1,6 +1,6 @@
 package com.lon;
 
-public class code {
+public class Сode {
     public static void main (String[] args) {
 
         int a = 20,
@@ -38,9 +38,5 @@ public class code {
         System.out.println("byte type overflow" + (e+1) + "" + (e-200) );
         System.out.println(ch+ln);
         System.out.println(aString);
-
-
-
-
     }
 }
