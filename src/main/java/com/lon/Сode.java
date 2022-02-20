@@ -1,5 +1,6 @@
 package com.lon;
 public class Сode {
+
     public static void main (String[] args) {
         int a = 20,
                 b = 30,
@@ -13,6 +14,7 @@ public class Сode {
         double h = 0.008;
         float i = 0.006F;
         char ch = 'T', ln='G';
+
         String aString = "passed";
         System.out.println("a+b =" + (a + b));
         System.out.println("a-b =" + (a-b));
